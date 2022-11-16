@@ -1,0 +1,16 @@
+fastapi>=0.68.0,<0.69.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+pydantic
+dnspython
+uvicorn
+happytransformer
+torch>=1.0
+tqdm>=4.43
+transformers>=4.4.0
+pytest
+datasets>=1.6.0
+dataclasses; python_version<"3.7"
+sentencepiece
+protobuf
+python-multipart
