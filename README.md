@@ -26,7 +26,7 @@ Run the docker container
 docker run -p 8080:8080 ai_image 
 ```
 
-### What happend after this?
+### What happens after this?
 Now you can look your AI up on the following localhost: [localhost:8080](localhost:8080)<br>
 If it sends you a message, you are good to go.<br>
 Now enter [localhost:8080/docs](localhost:8080/docs) <br>
